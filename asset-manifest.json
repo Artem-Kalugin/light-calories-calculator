@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.b71d7bf7.css",
-    "main.js": "/static/js/main.c1fdeb39.js",
-    "static/media/carbs.png": "/static/media/carbs.96b48c40e2ce490f60dc.png",
-    "static/media/calories.png": "/static/media/calories.30abc2dee51686555e7f.png",
-    "static/media/fats.png": "/static/media/fats.7348926767669cb8a280.png",
-    "static/media/eye.png": "/static/media/eye.44441fa59d6caea97cd0.png",
-    "static/media/proteins.png": "/static/media/proteins.6c444f9f7fc34bb80f34.png",
-    "static/media/clipboard.png": "/static/media/clipboard.63bf270ce06c27f992c1.png",
-    "index.html": "/index.html",
-    "main.b71d7bf7.css.map": "/static/css/main.b71d7bf7.css.map",
-    "main.c1fdeb39.js.map": "/static/js/main.c1fdeb39.js.map"
+    "main.css": "/light-calories-calculator/static/css/main.b71d7bf7.css",
+    "main.js": "/light-calories-calculator/static/js/main.bf1dc273.js",
+    "static/media/carbs.png": "/light-calories-calculator/static/media/carbs.96b48c40e2ce490f60dc.png",
+    "static/media/calories.png": "/light-calories-calculator/static/media/calories.30abc2dee51686555e7f.png",
+    "static/media/fats.png": "/light-calories-calculator/static/media/fats.7348926767669cb8a280.png",
+    "static/media/eye.png": "/light-calories-calculator/static/media/eye.44441fa59d6caea97cd0.png",
+    "static/media/proteins.png": "/light-calories-calculator/static/media/proteins.6c444f9f7fc34bb80f34.png",
+    "static/media/clipboard.png": "/light-calories-calculator/static/media/clipboard.63bf270ce06c27f992c1.png",
+    "index.html": "/light-calories-calculator/index.html",
+    "main.b71d7bf7.css.map": "/light-calories-calculator/static/css/main.b71d7bf7.css.map",
+    "main.bf1dc273.js.map": "/light-calories-calculator/static/js/main.bf1dc273.js.map"
   },
   "entrypoints": [
     "static/css/main.b71d7bf7.css",
-    "static/js/main.c1fdeb39.js"
+    "static/js/main.bf1dc273.js"
   ]
 }
