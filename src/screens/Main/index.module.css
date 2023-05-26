@@ -1,0 +1,51 @@
+.layout {
+  gap: 16px;
+}
+
+.row-container {
+  flex-direction: row;
+  gap: 16px;
+  flex-grow: 1;
+  display: flex;
+  width: 100%;
+}
+
+.title {
+  margin-bottom: 24px;
+}
+
+.summary {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.inputs {
+  display: flex;
+  gap: 12px;
+  flex-direction: column;
+}
+
+.placeholder {
+  color: var(--color-grey-2);
+}
+
+
+.grow {
+  display: flex;
+  flex-grow: 1;
+}
+
+.header {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.saveProduct {
+  padding-top: 12px;
+  display: flex;
+  justify-content: center;
+}

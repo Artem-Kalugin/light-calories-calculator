@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  height: 1px;
+  border-radius: 2px;
+  background-color: var(--color-grey-20);
+  box-shadow: -2px -2px 57px -28px rgba(34, 60, 80, 0.46);
+}

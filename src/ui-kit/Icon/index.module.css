@@ -1,0 +1,20 @@
+.plus {
+  width: 16p;
+  height: 16px;
+  filter: invert(52%) sepia(57%) saturate(532%) hue-rotate(152deg) brightness(95%) contrast(93%);
+}
+
+
+.add {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 16px;
+  border-radius: 32px;
+  border: 1.5px solid #32a1ce;
+}
+
+.add:hover {
+  cursor: pointer;
+}
