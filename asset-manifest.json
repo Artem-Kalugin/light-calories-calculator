@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.b71d7bf7.css",
-    "main.js": "./static/js/main.eeccdd88.js",
+    "main.css": "./static/css/main.6aa5583d.css",
+    "main.js": "./static/js/main.139d305b.js",
     "static/media/carbs.png": "./static/media/carbs.96b48c40e2ce490f60dc.png",
     "static/media/calories.png": "./static/media/calories.30abc2dee51686555e7f.png",
     "static/media/fats.png": "./static/media/fats.7348926767669cb8a280.png",
@@ -9,11 +9,11 @@
     "static/media/proteins.png": "./static/media/proteins.6c444f9f7fc34bb80f34.png",
     "static/media/clipboard.png": "./static/media/clipboard.63bf270ce06c27f992c1.png",
     "index.html": "./index.html",
-    "main.b71d7bf7.css.map": "./static/css/main.b71d7bf7.css.map",
-    "main.eeccdd88.js.map": "./static/js/main.eeccdd88.js.map"
+    "main.6aa5583d.css.map": "./static/css/main.6aa5583d.css.map",
+    "main.139d305b.js.map": "./static/js/main.139d305b.js.map"
   },
   "entrypoints": [
-    "static/css/main.b71d7bf7.css",
-    "static/js/main.eeccdd88.js"
+    "static/css/main.6aa5583d.css",
+    "static/js/main.139d305b.js"
   ]
 }
